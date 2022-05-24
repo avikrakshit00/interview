@@ -2,7 +2,8 @@
 
 namespace App\Http\Middleware;
 
-use Closure;use Illuminate\Support\Facades\Session;
+use Closure;
+use Illuminate\Support\Facades\Session;
 use Illuminate\Http\Request;
 use Brian2694\Toastr\Facades\Toastr;
 
